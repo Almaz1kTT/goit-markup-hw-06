@@ -263,7 +263,7 @@ img {
       linear-gradient(to bottom, rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url(../images/bckgrd_img/hero-t.jpg);
     padding: 112px 0;
-    max-width: 100%;
+    max-width: 768px;
     min-height: 436px;
     margin: 0 auto;
   }
@@ -423,7 +423,6 @@ img {
 .team-social-container {
   display: flex;
   justify-content: center;
-  margin-top: 8px;
 }
 .social-link-list {
   display: flex;
