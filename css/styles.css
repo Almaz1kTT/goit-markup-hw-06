@@ -464,6 +464,10 @@ img {
   .team-list {
     flex-wrap: nowrap;
     gap: 0 24px;
+    justify-content: center;
+  }
+  .team-list-item {
+    width: calc((100% - 72px) / 4);
   }
 }
 
